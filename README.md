@@ -22,7 +22,8 @@ https://www.kaggle.com/code/aljowryalali/notebooka582cc7183?scriptVersionId=2958
 ## Methodology Diagram
 The methodology diagram was created using an AI-based tool to support the visualization of the machine learning workflow.
 
-![Methodology Diagram](methodology-diagram.png)
+![Methodology Diagram](methodology-diagram.png.png)
+
 
 
 
