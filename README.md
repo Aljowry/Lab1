@@ -17,7 +17,8 @@ based on demographic, educational, and behavioral features.
 - Created a Kaggle Notebook for data inspection
 
 ## Kaggle Notebook
-https://www.kaggle.com/code/aljowryalali/notebooka582cc7183?scriptVersionId=295880206
+https://www.kaggle.com/code/aljowryalali/notebooka582cc7183
+
 
 ## Methodology Diagram
 The methodology diagram was created using an AI-based tool to support the visualization of the machine learning workflow.
