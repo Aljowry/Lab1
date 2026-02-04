@@ -19,7 +19,6 @@ based on demographic, educational, and behavioral features.
 ## Kaggle Notebook
 https://www.kaggle.com/code/aljowryalali/notebooka582cc7183
 
-
 ## Methodology Diagram
 The methodology diagram was created using an AI-based tool to support the visualization of the machine learning workflow.
 
