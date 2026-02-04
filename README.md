@@ -18,3 +18,8 @@ based on demographic, educational, and behavioral features.
 
 ## Kaggle Notebook
 https://www.kaggle.com/code/aljowryalali/notebooka582cc7183?scriptVersionId=295880206
+
+## Methodology Diagram
+![Methodology Diagram](methodology-diagram.png)
+
+
